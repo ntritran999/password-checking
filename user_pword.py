@@ -12,5 +12,6 @@ while True:
         print("Your password can be like this:", password_generator())
     else:
         print("\n")
-        print("This is your password:", user_password)
+        print("Your Password Is Good Enough")
+        print("Here it is:", user_password)
         break
