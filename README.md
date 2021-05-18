@@ -1,3 +1,3 @@
 # A python project
 
-This is some sort of creating a password for a user. Enjoy!
+This is some sort of checking password for users. Enjoy!
